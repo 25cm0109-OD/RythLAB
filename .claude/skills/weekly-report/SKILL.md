@@ -15,7 +15,9 @@ description: 進捗をGitHub Issues（作業ごとのIssue）に記録する。�
   - `進行中`: 今取り組んでいる作業
   - `問題`: 詰まっている・悩み中
   - `先生向け`: 先生への報告・質問用（Issue #4「先生への報告・質問」）
-- 作業が終わったらIssueをcloseする。`進行中` ラベルも外す。
+- Project（かんばん）: `https://github.com/users/25cm0109-OD/projects/1`（Status は Todo / In Progress / Done）。新しいIssueを作ったら `gh project item-add 1 --owner 25cm0109-OD --url <IssueのURL>` で追加する。ラベル `進行中` と Status の In Progress は同じ意味なので、両方そろえる。
+  - Status変更: `gh project item-edit --id <item id> --project-id PVT_kwHODg4R0M4BsGsw --field-id PVTSSF_lAHODg4R0M4BsGswzhqWVcQ --single-select-option-id <Todo=f75ad846 / In Progress=47fc9ee4 / Done=98236657>`（item id は `gh project item-list 1 --owner 25cm0109-OD --format json` で調べる）
+- 作業が終わったらIssueをcloseし、StatusをDoneにする。`進行中` ラベルも外す。
 - 過去の週報（`docs/weekly-reports/` のmd）は過去ログとして残すだけ。更新しない。
 
 ## 絶対ルール
