@@ -24,9 +24,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - 実装は最終的に Kotlin / Jetpack Compose の Android アプリ（android-youtube-player で再生、Firestore 連携）。
 - 企画の3本柱は「縦スワイプのショート動画式再生」「同期再生のライブ会場の部屋」「プレイリスト」。機能設計はこの3つが軸。
 
-## 週報（docs/weekly-reports/）
-- 週報は GitHub（`docs/weekly-reports/`）が正本。Prairie（提出サイト）には同期する（2026-11-18 決定）。リポジトリは `25cm0109-OD/RythLAB`（private）。
+## 進捗管理（GitHub Issues）
+- 週報はやめて、進捗は GitHub Issues（1作業=1 Issue、日々の記録はコメント）で管理する（2026-11-18 決定。先生から管理方法は自由と言われた）。Prairieへの同期もしない。リポジトリは `25cm0109-OD/RythLAB`（private）。
 - 記録の手順は skill `weekly-report`（`.claude/skills/weekly-report/SKILL.md`）にまとめてある。予定・実績などを伝えられたらそれに従い、言われた内容だけを書く。
+- `docs/weekly-reports/` の過去の週報mdは過去ログ。更新しない。
 
 ## 決定事項
 - 曲DBは当面ロリポップのMySQL（SQL）を使う（2026-11-11 決定）。Androidから直接は接続できないので、API経由（PHP等）になる。
