@@ -1,0 +1,114 @@
+[
+    {
+        "version": "maimai",
+        "release": "2012-07-11"
+    },
+    {
+        "version": "maimai PLUS",
+        "release": "2012-12-13"
+    },
+    {
+        "version": "maimai GreeN",
+        "release": "2013-07-11"
+    },
+    {
+        "version": "maimai GreeN PLUS",
+        "release": "2014-02-26"
+    },
+    {
+        "version": "maimai ORANGE",
+        "release": "2014-09-18"
+    },
+    {
+        "version": "maimai ORANGE PLUS",
+        "release": "2015-03-19"
+    },
+    {
+        "version": "maimai PiNK",
+        "release": "2015-12-09"
+    },
+    {
+        "version": "maimai PiNK PLUS",
+        "release": "2016-06-30"
+    },
+    {
+        "version": "maimai MURASAKi",
+        "release": "2016-12-15"
+    },
+    {
+        "version": "maimai MURASAKi PLUS",
+        "release": "2017-06-22"
+    },
+    {
+        "version": "maimai MiLK",
+        "release": "2017-12-14"
+    },
+    {
+        "version": "maimai MiLK PLUS",
+        "release": "2018-06-21"
+    },
+    {
+        "version": "maimai FiNALE",
+        "release": "2018-12-13"
+    },
+    {
+        "version": "maimai でらっくす",
+        "release": "2019-07-11"
+    },
+    {
+        "version": "maimai でらっくす PLUS",
+        "release": "2020-01-23"
+    },
+    {
+        "version": "maimai でらっくす Splash",
+        "release": "2020-09-17"
+    },
+    {
+        "version": "maimai でらっくす Splash PLUS",
+        "release": "2021-03-18"
+    },
+    {
+        "version": "maimai でらっくす UNiVERSE",
+        "release": "2021-09-16"
+    },
+    {
+        "version": "maimai でらっくす UNiVERSE PLUS",
+        "release": "2022-03-24"
+    },
+    {
+        "version": "maimai でらっくす FESTiVAL",
+        "release": "2022-09-15"
+    },
+    {
+        "version": "maimai でらっくす FESTiVAL PLUS",
+        "release": "2023-03-22"
+    },
+    {
+        "version": "maimai でらっくす BUDDiES",
+        "release": "2023-09-14"
+    },
+    {
+        "version": "maimai でらっくす BUDDiES PLUS",
+        "release": "2024-03-21"
+    },
+    {
+        "version": "maimai でらっくす PRiSM",
+        "release": "2024-09-12"
+    },
+    {
+        "version": "maimai でらっくす PRiSM PLUS",
+        "release": "2025-03-13"
+    },
+	{
+        "version": "maimai でらっくす CiRCLE",
+        "release": "2025-09-18"
+    },
+	{
+        "version": "maimai でらっくす CiRCLE PLUS",
+        "release": "2026-03-19"
+    },
+	{
+        "version": "maimai でらっくす MAGiCAL",
+        "release": "2026-09-17"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "version": "CHUNITHM",
+        "release": "2015-07-16"
+    },
+    {
+        "version": "CHUNITHM PLUS",
+        "release": "2016-02-04"
+    },
+    {
+        "version": "CHUNITHM AIR",
+        "release": "2016-08-25"
+    },
+    {
+        "version": "CHUNITHM AIR PLUS",
+        "release": "2017-02-09"
+    },
+    {
+        "version": "CHUNITHM STAR",
+        "release": "2017-08-24"
+    },
+    {
+        "version": "CHUNITHM STAR PLUS",
+        "release": "2018-03-08"
+    },
+    {
+        "version": "CHUNITHM AMAZON",
+        "release": "2018-10-25"
+    },
+    {
+        "version": "CHUNITHM AMAZON PLUS",
+        "release": "2019-04-11"
+    },
+    {
+        "version": "CHUNITHM CRYSTAL",
+        "release": "2019-10-24"
+    },
+    {
+        "version": "CHUNITHM CRYSTAL PLUS",
+        "release": "2020-07-16"
+    },
+    {
+        "version": "CHUNITHM PARADISE",
+        "release": "2021-01-21"
+    },
+    {
+        "version": "CHUNITHM PARADISE LOST",
+        "release": "2021-05-13"
+    },
+    {
+        "version": "CHUNITHM NEW",
+        "release": "2021-11-04"
+    },
+    {
+        "version": "CHUNITHM NEW PLUS",
+        "release": "2022-04-14"
+    },
+    {
+        "version": "CHUNITHM SUN",
+        "release": "2022-10-13"
+    },
+    {
+        "version": "CHUNITHM SUN PLUS",
+        "release": "2023-05-11"
+    },
+    {
+        "version": "CHUNITHM LUMINOUS",
+        "release": "2023-12-14"
+    },
+    {
+        "version": "CHUNITHM LUMINOUS PLUS",
+        "release": "2024-06-20"
+    },
+    {
+        "version": "CHUNITHM VERSE",
+        "release": "2024-12-12"
+    },
+    {
+        "version": "CHUNITHM X-VERSE",
+        "release": "2025-07-16"
+    },
+    {
+        "version": "CHUNITHM X-VERSE-X",
+        "release": "2025-12-11"
+    },
+	{
+		"version": "CHUNITHM Mate",
+		"release": "2026-07-02"
+	}
+]
